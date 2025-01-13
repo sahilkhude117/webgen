@@ -1,0 +1,2 @@
+
+export const basePrompt = '<boltArtifact id=\"project-import\" title=\"Project Files\"><boltAction type=\"file\" filePath=\"index.js\">// run `node index.js` in the terminal\n\console.log(`Hello Node.jsv${process.versions.node}!`</boltArtifact>'
