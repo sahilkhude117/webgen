@@ -10,7 +10,8 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "dotenv": "^16.4.5",
+    "@anthropic-ai/sdk": "^0.33.1",
+    "dotenv": "^16.4.7",
     "typescript": "^5.7.2"
   },
   "devDependencies": {
